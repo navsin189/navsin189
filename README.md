@@ -4,6 +4,13 @@
 
 I am a Software Engineer who is interested in DevOps culture. I mostly work with automation tools and Cloud-Native Technologies.
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/navsin189)
+[![Medium](https://img.shields.io/badge/Medium-Blog-green)](https://sunnykkc13.medium.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/navsin189)
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-Profile-blue)](https://hub.docker.com/u/navsin189)
+
 ## DevOps
 
 - **Automation Tools**: Ansible, Terraform, Jenkins
