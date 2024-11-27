@@ -2,7 +2,10 @@
 
 ## Software Engineer | DevOps Enthusiast
 
-I am a Software Engineer who is interested in DevOps culture. I mostly work with automation tools and Cloud-Native Technologies.
+DevOps Engineer with nearly 4 years of hands-on experience in cloud infrastructure, automation, and team leadership.
+Currently serving as the senior DevOps engineer, managing a large-scale GCP environment with 700+ VMs and driving
+performance optimizations across multiple tech stacks. Known for swift on-call resolutions, mentoring junior engineers, and
+enhancing system reliability through automation and containerization.
 
 ## Connect with Me
 
